@@ -1,0 +1,20 @@
+{
+  "name": "node-grade-calculator",
+  "version": "1.0.0",
+  "description": "A Node.js application for calculating grades",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grade",
+    "calculator",
+    "education",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
